@@ -1,0 +1,40 @@
+@font-face {
+    font-family: ticki
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #1B244A;
+}
+ 
+ h3 {
+     color: white;
+ }
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background: none;
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+border-radius: 5px;
+    font-size: 18px;
+    font-family:Cursed Timer ULiL;
+}
+
+h2 {
+    font-family:Cursed Timer ULiL;
+    color: #F94F6D;
+    font-size: 90px;
+    padding-top: 15px;
+    margin: 25px 0;
+    background: #080001;
+}
+
+.reset-btn{
+    margin: 15px 0px;
+}
