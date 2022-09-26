@@ -1,11 +1,13 @@
 @font-face {
-    font-family: ticki
+    font-family: 'timer';
+src: url(Fonts/TickingTimebombBB.ttf);
 }
 
 body {
     margin: 0;
     text-align: center;
     background-color: #1B244A;
+    font-family: "timer";
 }
  
  h3 {
@@ -23,11 +25,11 @@ button {
     border: 2px solid #9AABD8;
 border-radius: 5px;
     font-size: 18px;
-    font-family:Cursed Timer ULiL;
+    font-family:timer;
 }
 
 h2 {
-    font-family:Cursed Timer ULiL;
+    font-family: 'timer';
     color: #F94F6D;
     font-size: 90px;
     padding-top: 15px;
